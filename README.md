@@ -1,9 +1,8 @@
+![Cyber Sec](https://images.techhive.com/images/article/2014/12/password-protection-100536243-orig.jpg)
 # Reading Notes
 
 A repo dedicated to my thoughts while going through Code Fellows Ops 401 focused on Cyber Security.
 
-
-![Cyber Sec](https://images.techhive.com/images/article/2014/12/password-protection-100536243-orig.jpg)
 ### Ops 401 - Cyber Security 
 Course Id: seattle-ops-cybersecurity-401d1
 
