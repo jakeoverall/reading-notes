@@ -7,11 +7,11 @@ A repo dedicated to my thoughts while going through Code Fellows Ops 401 focused
 ### Ops 401 - Cyber Security 
 
 > Precourse Setup
-- [x] install virtual box
-- [x] kali vm
-- [x] windows 7 vm
-- [x] python
-- [x] vscode
+- [x]  install virtual box
+- [x]  kali vm
+- [x]  windows 7 vm
+- [x]  python
+- [x]  vscode
 
 > Week 1 Topics
 - **Metasploit:**
